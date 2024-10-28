@@ -2,7 +2,7 @@
 - 👀 I’m interested in sport sciences: anticipation and decision making in sport including expertise and performance in real and virtual conditions. Moreover, I am interesting to understand the impact of factors on these judgments like fatigue.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on decision making and anticipation in sport.
-- 📫 How to reach me: mildred.taupin@gmail.com
+- 📫 How to reach me: mildred.loiseau.taupin@univ-poitiers.fr
 - 🥊 I have a repository about Boxing project at https://github.com/INSQuebec
 
 <!---
